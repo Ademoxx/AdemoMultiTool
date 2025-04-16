@@ -47,7 +47,7 @@ Créer un **multi-outil extensible** avec une interface simple, esthétique et p
 ### Lancer le tool
 
 ```bash
-git clone https://github.com/ton-pseudo/AdemoTool.git
-cd AdemoTool
+git clone https://github.com/Ademoxx/AdemoMultiTool
+cd AdemoMultiTool
 pip install -r requirements.txt
-python ademo.py
+python interface.py
