@@ -1,24 +1,50 @@
-# 🧠 AdemoTool - Python Multitool GUI [#FREE]
+# 🧠 AdemoTool — Cyberpunk OSINT MultiTool
 
-**AdemoTool** est un *launcher multitool* codé en Python avec PySide6, pensé pour centraliser plusieurs scripts en une seule interface graphique stylisée et rapide. Que ce soit pour des tests, des outils dev, ou des automations diverses.
+Une interface graphique stylée en **PySide6** pour centraliser plusieurs outils d'OSINT, de spam, de tracking et d'autres utilitaires... le tout dans une vibe **cyberpunk** 💻⚡
 
-![interface-preview](https://imgur.com/a/dGjeeqg)<!-- Ajoute une image si tu veux -->
+
+---
+
+## 🚀 Fonctionnalités incluses
+
+| Bouton                  | Description                                         |
+|------------------------|-----------------------------------------------------|
+| **GithubLookup**       | Recherche d'informations sur un utilisateur GitHub  |
+| **CcGen**              | Générateur de cartes de crédit factices             |
+| **RaidBot**            | Raid automatisé sur plateformes (usage perso !)     |
+| **EventSpammer**       | Spam d'événements automatisé                        |
+| **GunsLol UserGen**    | Générateur + checker de users Gunslol               |
+| **Webhook Spammer**    | Spam de webhook Discord                             |
+| **SearchDatabase**     | Recherche dans des bases de données leaks           |
+| **osintTool**          | Outil OSINT avec IP/Numéro/Username Lookup          |
+| **MailTracker**        | Vérifie où un mail est enregistré (20+ sites)       |
+| **InfoTool**           | Donne les infos système, IP, OS, etc.               |
+| **soon...**            | Slots réservés pour les futurs outils               |
 
 ---
 
-## 🎯 Objectif
+## 🖼️ Interface
 
-Créer un **multi-outil extensible** avec une interface simple, esthétique et pratique pour exécuter n’importe quel script Python sans passer par la ligne de commande.
+- Interface **PySide6**
+- Design **cyberpunk** (néons, ombres, animations, etc.)
+- Responsive et lisible
+- Effets de survol sur chaque bouton
+- Grille dynamique avec couleurs cycliques
 
 ---
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/ademoxx/AdemoMultiTool.git
+cd AdemoTool
+pip install -r requirements.txt
 
 ## 🚀 Fonctionnalités actuelles
 
 - Interface graphique avec effets néon (PySide6 / Qt)
 - Boutons personnalisés pour chaque outil
 - Exécution indépendante des scripts via `subprocess`
-- Design dark mode / cyberpunk
-
 ---
 
 ## 📦 Modules intégrés (démo actuelle)
