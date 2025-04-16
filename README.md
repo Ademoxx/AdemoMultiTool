@@ -2,7 +2,7 @@
 
 **AdemoTool** est un *launcher multitool* codé en Python avec PySide6, pensé pour centraliser plusieurs scripts en une seule interface graphique stylisée et rapide. Que ce soit pour des tests, des outils dev, ou des automations diverses, ce hub t'offre une UX fluide dans une ambiance cyberpunk.
 
-[![interface-preview](preview.png) ](https://zupimages.net/up/25/16/83nh.png)<!-- Ajoute une image si tu veux -->
+[![interface-preview](preview.png) ]([url=https://zupimages.net/viewer.php?id=25/16/83nh.png][img]https://zupimages.net/up/25/16/83nh.png[/img][/url])<!-- Ajoute une image si tu veux -->
 
 ---
 
