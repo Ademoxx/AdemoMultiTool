@@ -1,6 +1,6 @@
-# 🧠 AdemoTool — Cyberpunk OSINT MultiTool
+# 🧠 AdemoTool — Discord MultiTool
 
-Une interface graphique stylée en **PySide6** pour centraliser plusieurs outils d'OSINT, de spam, de tracking et d'autres utilitaires... le tout dans une vibe **cyberpunk** 💻⚡
+Une interface graphique stylée en **PySide6** pour centraliser plusieurs outils d'OSINT, de spam, de tracking et d'autres utilitaires... 💻⚡
 
 
 ---
