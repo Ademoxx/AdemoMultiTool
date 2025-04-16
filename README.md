@@ -18,7 +18,6 @@ Créer un **multi-outil extensible** avec une interface simple, esthétique et p
 - Boutons personnalisés pour chaque outil
 - Exécution indépendante des scripts via `subprocess`
 - Design dark mode / cyberpunk
-- Facilement extensible (ajout de modules simple)
 
 ---
 
