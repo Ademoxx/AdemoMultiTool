@@ -1,0 +1,7 @@
+PyQt5
+PySide6
+requests
+beautifulsoup4
+pytz
+keyboard
+discord.py
