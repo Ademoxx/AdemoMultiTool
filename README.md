@@ -23,6 +23,7 @@ Une interface graphique stylée en **PySide6** pour centraliser plusieurs outils
 | **MailTracker**        | Vérifie où un mail est enregistré (20+ sites)       |
 | **InfoTool**           | Donne les infos système, IP, OS, etc.               |
 | **soon...**            | Slots réservés pour les futurs outils               |
+|------------------------|-----------------------------------------------------|
 
 ---
 
