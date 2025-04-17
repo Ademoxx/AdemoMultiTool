@@ -41,7 +41,7 @@ class CreditCardGenerator(QWidget):
         layout = QVBoxLayout()
         layout.setSpacing(15)
 
-        title = QLabel("🔥 CCScrapper | discord.gg/database ; https://t.me/leakofdata 🔥")
+        title = QLabel("🔥 CCScrapper | https://t.me/leakofdata 🔥")
         title.setFont(QFont("Segoe UI", 14, QFont.Bold))
         title.setStyleSheet("color: #00F2EA; letter-spacing: 1px;")
         title.setAlignment(Qt.AlignCenter)
