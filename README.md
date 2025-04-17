@@ -2,10 +2,10 @@
 
 Une interface graphique stylée en **PySide6** pour centraliser plusieurs outils d'OSINT, de spam, de tracking et d'autres utilitaires... 💻⚡
 
-CONTACT : 
-- discord usernames : @ademo.x
-- discord server : https://discord.gg/Ka537tb6Xg
-
+---
+## Contact
+- discord link : https://discord.gg/Ka537tb6Xg
+- discord username : @ademo.x 
 ---
 
 ## 🚀 Fonctionnalités incluses
