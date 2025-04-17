@@ -48,24 +48,7 @@ pip install -r requirements.txt
 
 - Interface graphique avec effets néon (PySide6 / Qt)
 - Boutons personnalisés pour chaque outil
-- Exécution indépendante des scripts via `subprocess`
----
-
-## 📦 Modules intégrés (démo actuelle)
-
-| Nom du module               | Script exécuté                 |
-|----------------------------|--------------------------------|
-| GithubLookup               | `scripts/option1.py`           |
-| CcGen                      | `scripts/ccgen.py`             |
-| RaidBot                    | `scripts/raid.py`              |
-| EventSpammer               | `scripts/event.py`             |
-| GunsLol UserGen&Check      | `scripts/Gunslol.py`           |
-| WebHook Spammer            | `scripts/spammer.py`           |
-| InfoTool                   | `scripts/info.py`              |
-| *...et des emplacements "soon" pour en rajouter* |
-
----
-
+ 
 ## 🛠️ Installation
 
 ### Prérequis
