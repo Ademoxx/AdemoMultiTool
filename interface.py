@@ -18,7 +18,7 @@ buttons_config = [
     {"label": "SearchDatabase", "script": "scripts/searcher.py"},
     {"label": "osintTool", "script": "scripts/osinttool.py"},
     {"label": "MailTracker", "script": "scripts/mail.py"},
-    {"label": "soon", "script": "scripts/soon.py"},
+    {"label": "ServerCloner", "script": "scripts/servercloner.py"},
     {"label": "soon", "script": "scripts/soon.py"},
     {"label": "soon", "script": "scripts/soon.py"},
     {"label": "soon", "script": "scripts/soon.py"},
